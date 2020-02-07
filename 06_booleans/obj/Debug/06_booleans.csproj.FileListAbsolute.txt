@@ -1,0 +1,6 @@
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe.config
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.pdb
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csprojAssemblyReference.cache
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.pdb

@@ -1,0 +1,6 @@
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_Variables\obj\Debug\02_Variables.csprojAssemblyReference.cache
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_Variables\obj\Debug\02_Variables.pdb

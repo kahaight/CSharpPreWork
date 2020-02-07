@@ -1,0 +1,5 @@
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops_challenge\bin\Debug\09_loops_challenge.exe.config
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops_challenge\bin\Debug\09_loops_challenge.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops_challenge\bin\Debug\09_loops_challenge.pdb
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops_challenge\obj\Debug\09_loops_challenge.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops_challenge\obj\Debug\09_loops_challenge.pdb

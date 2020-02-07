@@ -1,0 +1,5 @@
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\bin\Debug\05_strings.exe.config
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\bin\Debug\05_strings.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\bin\Debug\05_strings.pdb
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\obj\Debug\05_strings.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\obj\Debug\05_strings.pdb

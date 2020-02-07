@@ -1,0 +1,6 @@
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\06_boolean_challenges.exe.config
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\06_boolean_challenges.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\06_boolean_challenges.pdb
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\06_boolean_challenges.exe
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\06_boolean_challenges.pdb
+C:\Users\konra\OneDrive\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\06_boolean_challenges.csprojAssemblyReference.cache
